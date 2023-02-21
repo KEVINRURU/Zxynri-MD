@@ -5,11 +5,11 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
+global . owner   = [ '6285341197755'] //ganti pakai nomormu biar bot berfungsi
+global . mods   = [ '6285341197755'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6285341197755'] //ganti pakai nomormu biar bot berfungsi
 
-//=============『 Info Owner 』============== //
+//=============『 Pemilik Info 』============== //
 global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
 global.numberowner = '6281251549899' //ganti pakai nomor mu
 global.instagram = 'Gk Ad Bwang:v' //ganti pakai Instagram mu
